@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, DSA and Artificial Intelligence.
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on MERN stack web projects.
-- 📫 How to reach me - Find me on LinkedIn
+- 📫 How to reach me - Here;s my LinkedIn profile  : https://www.linkedin.com/in/faeez-ahmed-qureshi-9b6b84281
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
