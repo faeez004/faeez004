@@ -7,7 +7,7 @@
 
   ## Certifications
 
-- [![Postman API Fundamentals Student Expert Badge] https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw/image ]https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw?identity__email=qureshifaeez%40gmail.com
+- [![Postman API Fundamentals Student Expert Badge]https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw/image]https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw?identity__email=qureshifaeez%40gmail.com
 
 
 <!---
