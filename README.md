@@ -5,9 +5,18 @@
 - 📫 How to reach me - Here's my LinkedIn profile  : https://www.linkedin.com/in/faeez-ahmed-qureshi-9b6b84281
 - 😄 Pronouns: He/Him
 
-  ## Certifications
-
-- [![Postman API Fundamentals Student Expert Badge]https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw/image]https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw?identity__email=qureshifaeez%40gmail.com
+  ## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+</div>
 
 
 <!---
